@@ -11,14 +11,14 @@
 </h3>
 
 ## 👩‍💻About Me
-#### I'm a passionate Frontend Developer focused on building clean, responsive and user-friendly web applications. I enjoy converting UI designs into pixel-perfect interfaces and working with modern JavaScript     frameworks. Recently, I have been building full-stack projects using React, Next.js and Node.js.
+  I'm a passionate Frontend Developer focused on building clean, responsive and user-friendly web applications. I enjoy converting UI designs into pixel-perfect interfaces and working with modern JavaScript     frameworks. Recently, I have been building full-stack projects using React, Next.js and Node.js.
  
 
  ## 🌱 Current Activities
 
- - Currently working on **HeroCare**, a full-stack child, elder & sick care services web application using Next.js
- - Exploring Next.js concepts and modern React workflows
- - Building and maintaining bultiple frontend & full-stack projects
+ -  Currently working on **HeroCare**, a full-stack child, elder & sick care services web application using Next.js
+ -  Exploring Next.js concepts and modern React workflows
+ -  Building and maintaining bultiple frontend & full-stack projects
    ------
 
 ## 🛠️ Skills
